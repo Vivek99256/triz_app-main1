@@ -10,54 +10,54 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Career Counseling",
+      title: "Thinking: Career Plan ",
       description:
-        "Career counseling helps individuals explore and choose career paths that align with their interests, skills, and values. It involves assessments, guidance, and advice from trained professionals to aid in making informed decisions. The goal is to help clients set realistic career goals, improve job satisfaction, and navigate challenges in their professional liv",
+        "To build a successful career, focus on continuous learning and skill development. Identify your strengths and passions, and align them with opportunities in growing fields. Network with industry professionals and seek mentorship. Set short-term and long-term goals, maintaining adaptability as the job market evolves. Prioritize work-life balance while striving for professional growth and stability.",
       image: "/ccservice_images/Group 395.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
     },
-    {
-      id: 2,
-      title: "Guidance",
-      description:
-        "Student development, providing support in academic, social, and emotional areas. Teachers, counselors, and mentors help students navigate challenges, set goals, and explore career paths. Effective guidance fosters a positive learning environment, promoting self-confidence, resilience, and critical thinking. It empowers students to make informed decisions, preparing them for success in both school and life.",
-      image: "/ccservice_images/Group 396.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 3,
-      title: "Career Awareness",
-      description:
-        "Career awareness is the understanding of various career options, their requirements, and opportunities. It involves exploring different fields, learning about required skills, qualifications, and potential growth. Building career awareness helps individuals make informed decisions about their educational paths, job choices, and personal goals, ensuring they align their interests and strengths with suitable professions for long-term success.",
-      image: "/ccservice_images/Group 397.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 4,
-      title: "Institutes can design this page",
-      description:
-        "Institutes can design a dedicated webpage that showcases their programs, faculty, research, and campus life. It can feature interactive elements like course catalogs, student testimonials, event calendars, and online application options. The design should be user-friendly, visually appealing, and mobile-optimized to ensure prospective students have a smooth, informative experience when exploring the institute's offerings.",
-      image: "/ccservice_images/Group 398.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 5,
-      title: "Create career awareness",
-      description:
-        "Career awareness helps individuals explore different professions, understand the skills and qualifications required, and recognize the opportunities available. It provides valuable insights into job responsibilities, growth potential, and industry trends. By fostering career awareness, individuals can make informed decisions, align their interests and abilities with suitable careers, and enhance their chances of long-term success and job satisfaction.",
-      image: "/ccservice_images/Group 399.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
+    // {
+    //   id: 2,
+    //   title: "Guidance",
+    //   description:
+    //     "Student development, providing support in academic, social, and emotional areas. Teachers, counselors, and mentors help students navigate challenges, set goals, and explore career paths. Effective guidance fosters a positive learning environment, promoting self-confidence, resilience, and critical thinking. It empowers students to make informed decisions, preparing them for success in both school and life.",
+    //   image: "/ccservice_images/Group 396.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 3,
+    //   title: "Career Awareness",
+    //   description:
+    //     "Career awareness is the understanding of various career options, their requirements, and opportunities. It involves exploring different fields, learning about required skills, qualifications, and potential growth. Building career awareness helps individuals make informed decisions about their educational paths, job choices, and personal goals, ensuring they align their interests and strengths with suitable professions for long-term success.",
+    //   image: "/ccservice_images/Group 397.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 4,
+    //   title: "Institutes can design this page",
+    //   description:
+    //     "Institutes can design a dedicated webpage that showcases their programs, faculty, research, and campus life. It can feature interactive elements like course catalogs, student testimonials, event calendars, and online application options. The design should be user-friendly, visually appealing, and mobile-optimized to ensure prospective students have a smooth, informative experience when exploring the institute's offerings.",
+    //   image: "/ccservice_images/Group 398.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 5,
+    //   title: "Create career awareness",
+    //   description:
+    //     "Career awareness helps individuals explore different professions, understand the skills and qualifications required, and recognize the opportunities available. It provides valuable insights into job responsibilities, growth potential, and industry trends. By fostering career awareness, individuals can make informed decisions, align their interests and abilities with suitable careers, and enhance their chances of long-term success and job satisfaction.",
+    //   image: "/ccservice_images/Group 399.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
     // {
     //   id: 2,
     //   title: "Task management System",

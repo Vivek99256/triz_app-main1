@@ -10,74 +10,74 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Counseling",
+      title: "Career Exploration",
       description:
-        "Counseling is an essential component that provides personalized guidance to individuals navigating their career paths. Through one-on-one sessions and tailored assessments, it helps students identify their strengths, interests, and potential career options. This supportive process empowers learners to make informed decisions, set achievable goals, and develop actionable plans for their professional futures, ensuring they are well-equipped to succeed in a competitive job market.",
+        "Career exploration is the process of researching and evaluating different job options, industries, and career paths. It involves understanding personal interests, skills, values, and goals to identify potential career choices. Through activities like internships, networking, and informational interviews, individuals gain insight into various roles, helping them make informed decisions about their future careers.",
       image: "/ccservice_images/Group 405.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
     },
-    {
-      id: 2,
-      title: "Design your dream explore",
-      description:
-        "My dream exploration involves traversing lush rainforests, ancient ruins, and vibrant coral reefs, combining adventure and discovery. Equipped with eco-conscious tools, I’d journey through uncharted landscapes, connect with diverse cultures, and document the wonders of nature. It’s a quest to uncover hidden beauty, inspire conservation, and embrace the thrill of the unknown, one step at a time.",
-      image: "/ccservice_images/Group 406.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 3,
-      title: "Explore occupation with various crietria",
-      description:
-        "Exploring occupations involves evaluating diverse criteria such as personal interests, skills, education, salary expectations, job market trends, and work-life balance. Consider growth potential, geographic location, and industry stability. Researching roles through networking, internships, or shadowing can offer practical insights. Aligning career choices with values and long-term goals ensures fulfillment and professional success in the chosen path.",
-      image: "/ccservice_images/Group 407.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 4,
-      title: "Find dream collages",
-      description:
-        "Dream collages are artistic compilations of images, words, and textures that visually represent aspirations, fantasies, or subconscious thoughts. These imaginative creations blend surreal and symbolic elements, evoking a sense of wonder and introspection. Often used in vision boards or creative expression, dream collages allow individuals to explore their inner desires, unlocking creativity and offering a glimpse into their deepest aspirations.",
-      image: "/ccservice_images/Group 408.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 5,
-      title: "Find dream employer",
-      description:
-        "A dream employer fosters growth, values employee well-being, and offers opportunities for innovation. They promote a positive work culture, inclusivity, and work-life balance. Providing challenging projects, mentorship, and recognition, they inspire loyalty and professional excellence. A dream employer aligns with your passions, respects individuality, and encourages collaboration, creating a fulfilling and rewarding career journey.",
-      image: "/ccservice_images/Group 409.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 6,
-      title: "Scholarship",
-      description:
-        "A scholarship is a financial award granted to students to support their education, often based on academic merit, leadership, talents, or financial need. Scholarships alleviate the burden of tuition fees, enabling recipients to focus on their studies. Offered by institutions, governments, or private organizations, they empower individuals to achieve their educational and career aspirations.",
-      image: "/ccservice_images/Group 410.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 7,
-      title: "Competitive exam",
-      description:
-        "A competitive exam is a test designed to assess candidates' knowledge, skills, and aptitude in a specific subject or field. It is often used for admissions to educational institutions, job recruitment, or certification purposes. These exams are typically challenging, with a focus on measuring proficiency and determining the best-qualified individuals for a given opportunity.",
-      image: "/ccservice_images/Group 411.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
+    // {
+    //   id: 2,
+    //   title: "Design your dream explore",
+    //   description:
+    //     "My dream exploration involves traversing lush rainforests, ancient ruins, and vibrant coral reefs, combining adventure and discovery. Equipped with eco-conscious tools, I’d journey through uncharted landscapes, connect with diverse cultures, and document the wonders of nature. It’s a quest to uncover hidden beauty, inspire conservation, and embrace the thrill of the unknown, one step at a time.",
+    //   image: "/ccservice_images/Group 406.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 3,
+    //   title: "Explore occupation with various crietria",
+    //   description:
+    //     "Exploring occupations involves evaluating diverse criteria such as personal interests, skills, education, salary expectations, job market trends, and work-life balance. Consider growth potential, geographic location, and industry stability. Researching roles through networking, internships, or shadowing can offer practical insights. Aligning career choices with values and long-term goals ensures fulfillment and professional success in the chosen path.",
+    //   image: "/ccservice_images/Group 407.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 4,
+    //   title: "Find dream collages",
+    //   description:
+    //     "Dream collages are artistic compilations of images, words, and textures that visually represent aspirations, fantasies, or subconscious thoughts. These imaginative creations blend surreal and symbolic elements, evoking a sense of wonder and introspection. Often used in vision boards or creative expression, dream collages allow individuals to explore their inner desires, unlocking creativity and offering a glimpse into their deepest aspirations.",
+    //   image: "/ccservice_images/Group 408.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 5,
+    //   title: "Find dream employer",
+    //   description:
+    //     "A dream employer fosters growth, values employee well-being, and offers opportunities for innovation. They promote a positive work culture, inclusivity, and work-life balance. Providing challenging projects, mentorship, and recognition, they inspire loyalty and professional excellence. A dream employer aligns with your passions, respects individuality, and encourages collaboration, creating a fulfilling and rewarding career journey.",
+    //   image: "/ccservice_images/Group 409.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 6,
+    //   title: "Scholarship",
+    //   description:
+    //     "A scholarship is a financial award granted to students to support their education, often based on academic merit, leadership, talents, or financial need. Scholarships alleviate the burden of tuition fees, enabling recipients to focus on their studies. Offered by institutions, governments, or private organizations, they empower individuals to achieve their educational and career aspirations.",
+    //   image: "/ccservice_images/Group 410.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 7,
+    //   title: "Competitive exam",
+    //   description:
+    //     "A competitive exam is a test designed to assess candidates' knowledge, skills, and aptitude in a specific subject or field. It is often used for admissions to educational institutions, job recruitment, or certification purposes. These exams are typically challenging, with a focus on measuring proficiency and determining the best-qualified individuals for a given opportunity.",
+    //   image: "/ccservice_images/Group 411.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
     // {
     //   id: 2,
     //   title: "Task management System",

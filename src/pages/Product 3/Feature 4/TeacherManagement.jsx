@@ -10,9 +10,9 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Connect/Explore",
+      title: "Social & Collabrative",
       description:
-        "Connect/Explore invites individuals to expand their horizons through meaningful connections and discoveries. It encourages stepping out of comfort zones to engage with new ideas, cultures, and perspectives. By connecting with others, one gains knowledge and builds relationships, while exploring the world allows for personal growth and understanding, fostering a richer, more diverse experience in life.",
+        "Social and collaborative refers to the interaction and cooperation between individuals or groups to achieve common goals. It emphasizes teamwork, sharing ideas, and leveraging diverse skills and perspectives. This approach is common in both personal and professional settings, fostering innovation, communication, and a sense of community while enhancing productivity and problem-solving capabilities.",
       image: "/ccservice_images/Group 412.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
@@ -20,9 +20,9 @@ export default function TeacherManagement() {
     },
     {
       id: 2,
-      title: "Career Preparation",
+      title: "Portfolio",
       description:
-        "Career Preparation is a vital feature that equips individuals with the skills and knowledge needed to thrive in their chosen professions. Offering practical training, workshops, and resources, it focuses on enhancing key competencies like resume writing, interview techniques, and networking strategies. By promoting a proactive approach to career readiness, Career Preparation ensures that students are well-prepared to meet industry demands and navigate the competitive job market with confidence.",
+        "A portfolio is a collection of work that showcases an individual’s skills, experiences, and accomplishments. It typically includes examples of projects, designs, writing, or other professional work. Portfolios can be digital or physical and are often used to demonstrate expertise, creativity, and versatility to potential clients or employers in fields like design, writing, and photography.",
       image: "/ccservice_images/Group 413.png",
       url1: "#feature-1",
       url2: "#feature-2",
@@ -30,9 +30,9 @@ export default function TeacherManagement() {
     },
     {
       id: 3,
-      title: "Career carricula",
+      title: "Virtual Classroom",
       description:
-        "A career curriculum refers to a structured plan that outlines the skills, knowledge, and experiences necessary to succeed in a particular profession. It includes academic courses, certifications, training, internships, and job-specific competencies. This framework helps individuals prepare for the workforce by offering a clear roadmap of the qualifications needed for career advancement and success in their chosen field.",
+        "A virtual classroom is an online learning environment where instructors and students interact in real-time or asynchronously. It provides tools like video conferencing, chat, shared documents, and multimedia resources to facilitate learning. Virtual classrooms offer flexibility, enabling learners to attend classes remotely, participate in discussions, and access materials from anywhere with an internet connection.",
       image: "/ccservice_images/Group 414.png",
       url1: "#feature-1",
       url2: "#feature-2",
@@ -40,9 +40,9 @@ export default function TeacherManagement() {
     },
     {
       id: 4,
-      title: "Social & coloborative",
+      title: "Counselling Report ",
       description:
-        "Social and collaborative environments foster teamwork, creativity, and shared goals. By encouraging open communication and cooperation, individuals can leverage diverse perspectives, enhancing problem-solving and innovation. These settings, whether in the workplace or online, promote a sense of community, trust, and mutual support, leading to more efficient outcomes and a positive, inclusive culture.",
+        "A counseling report typically includes an overview of the client's background, the issues discussed during sessions, the therapist's observations, and any progress or setbacks. It may highlight strategies used, the client's emotional responses, and specific goals set for future sessions. The report concludes with recommendations or action plans for continued therapy and support.",
       image: "/ccservice_images/Group 415.png",
       url1: "#feature-1",
       url2: "#feature-2",
@@ -50,9 +50,9 @@ export default function TeacherManagement() {
     },
     {
       id: 5,
-      title: "My strength (portfolio)",
+      title: "Career Curricula",
       description:
-        "My portfolio showcases a diverse range of strengths, including creativity, problem-solving, and attention to detail. I bring innovation and strategic thinking to every project, ensuring high-quality results. With strong technical skills, adaptability, and a collaborative mindset, I consistently deliver solutions that exceed expectations. My work reflects my commitment to excellence and my passion for continuous improvement.",
+        "Career curricula refer to structured educational programs designed to equip students with the necessary knowledge, skills, and competencies for specific careers or industries. These curricula blend theoretical learning with practical experiences, including internships, projects, and certifications, to prepare individuals for successful employment. They are typically tailored to meet the demands of the job market and employer expectations.",
       image: "/ccservice_images/Group 416.png",
       url1: "#feature-1",
       url2: "#feature-2",

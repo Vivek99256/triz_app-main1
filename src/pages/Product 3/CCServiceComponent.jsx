@@ -16,25 +16,25 @@ import S4 from "./Feature 4/IntegrationServices";
 
 const features = [
   {
-    title: 'Career Developmement',
+    title: 'Career Awearness  ',
     image: featureImage1,
     serviceComponent: <S1 />,
     description: 'Streamline your school management process with our efficient tools designed to simplify attendance, timetabling, and much more.',
   },
   {
-    title: 'Assessment & Evaluation',
+    title: 'Career Counselling',
     image: featureImage2,
     serviceComponent: <S2 />,
     description: 'Gain full control over finances, including fees, payroll, and budgeting, with clear and intuitive tools.',
   },
   {
-    title: 'Counselling & Support',
+    title: 'Career Exploration',
     image: featureImage3,
     serviceComponent: <S3 />,
     description: 'Provide personalized learning experiences to your students with powerful LMS and content management tools.',
   },
   {
-    title: 'Exploratons & Connectivity',
+    title: 'Career Prepration ',
     image: featureImage4,
     serviceComponent: <S4 />,
     description: 'Enhance communication between teachers, students, and parents with integrated messaging and notification systems.',

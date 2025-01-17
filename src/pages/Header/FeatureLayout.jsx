@@ -70,29 +70,29 @@ const rightMenuForCareerCounselling = [
   {
     id: 1,
     icon: "/home_images/Megamenu/CC/1.png",
-    title: "Career Development",
-    description: "Tools and programs aimed at helping students explore career paths and develop the necessary skills for success.",
+    title: "Career Awearness ",
+    description: "Career awareness helps individuals explore professions, understand skills needed, and make informed career decisions.",
     url: "ccservice"
   },
   {
     id: 2,
     icon: "/home_images/Megamenu/CC/2.png",
-    title: "Assessment & Evaluation",
-    description: "Assessment tools for evaluating students' interests, skills, and readiness for career paths and higher education.",
+    title: "Career Counselling",
+    description: "Career counseling helps individuals identify strengths, interests, and goals to guide career decisions and development.",
     url: "ccservice"
   },
   {
     id: 3,
     icon: "/home_images/Megamenu/CC/3.png",
-    title: "Counseling & Support",
-    description: "Counseling services designed to provide emotional support and guide students in their career or academic decisions.",
+    title: "Career Explorationt",
+    description: "Career exploration involves researching, evaluating, and understanding potential job paths based on interests and skills.",
     url: "ccservice"
   },
   {
     id: 4,
     icon: "/home_images/Megamenu/CC/4.png",
-    title: "Exploration & Connectivity",
-    description: "Platforms to connect students with industry professionals, mentors, and networking opportunities for career exploration.",
+    title: "Career Prepration",
+    description: "Career preparation involves gaining skills, knowledge, and experience to excel in a chosen profession.",
     url: "ccservice"
   }
 ];
@@ -575,107 +575,29 @@ const rightMenuForCommunication = [
      [
        {
          id: 1,
-         title: "Career Counseling",
+         title: "Thinking: Career Plan ",
          url1: "/career-counselling/career-counseling",  
          url2: "/career-counselling/career-counseling-benefits"
-       },
+       }
+     ],
+     [
        {
          id: 2,
-         title: "Guidance",
-         url1: "/career-counselling/guidance",  
-         url2: "/career-counselling/guidance-benefits"
+         title: "Intrest Profiler",
+         url1: "/career-counselling/assessment",  
+         url2: "/career-counselling/assessment-benefits"
        },
        {
          id: 3,
-         title: "Career Awareness",
-         url1: "/career-counselling/guidance",  
-         url2: "/career-counselling/guidance-benefits"
-       },
+         title: "Know Yourself ",
+         url1: "/career-counselling/assessment",  
+         url2: "/career-counselling/assessment-benefits"
+       }
+     ],
+     [
        {
          id: 4,
-         title: "Institutes can design this page",
-         url1: "/career-counselling/guidance",  
-         url2: "/career-counselling/guidance-benefits"
-       },
-       {
-         id: 5,
-         title: "Create career awareness",
-         url1: "/career-counselling/guidance",  
-         url2: "/career-counselling/guidance-benefits"
-       }
-     ],
-     [
-       {
-         id: 6,
-         title: "Assessment",
-         url1: "/career-counselling/assessment",  
-         url2: "/career-counselling/assessment-benefits"
-       },
-       {
-         id: 7,
-         title: "Councelling & support",
-         url1: "/career-counselling/assessment",  
-         url2: "/career-counselling/assessment-benefits"
-       },
-       {
-         id: 8,
-         title: "Know your intrest",
-         url1: "/career-counselling/assessment",  
-         url2: "/career-counselling/assessment-benefits"
-       },
-       {
-         id: 9,
-         title: " Online  councelling",
-         url1: "/career-counselling/assessment",  
-         url2: "/career-counselling/assessment-benefits"
-       },
-       {
-         id: 10,
-         title: "Councelling reports",
-         url1: "/career-counselling/assessment",  
-         url2: "/career-counselling/assessment-benefits"
-       }
-     ],
-     [
-       {
-         id: 11,
-         title: "Counseling",
-         url1: "/career-counselling/counseling",  
-         url2: "/career-counselling/counseling-benefits"
-       },
-       {
-         id: 12,
-         title: "Design your dream explore",
-         url1: "/career-counselling/counseling",  
-         url2: "/career-counselling/counseling-benefits"
-       },
-       {
-         id: 13,
-         title: "Explore occupation with various crietria",
-         url1: "/career-counselling/counseling",  
-         url2: "/career-counselling/counseling-benefits"
-       },
-       {
-         id: 14,
-         title: "Find dream collages",
-         url1: "/career-counselling/counseling",  
-         url2: "/career-counselling/counseling-benefits"
-       },
-       {
-         id: 15,
-         title: "Find dream employer",
-         url1: "/career-counselling/counseling",  
-         url2: "/career-counselling/counseling-benefits"
-       },
-       {
-         id: 16,
-         title: "Scholarchip",
-         url1: "/career-counselling/counseling",  
-         url2: "/career-counselling/counseling-benefits"
-       },
-       {
-         id: 17,
-         title: "Competitive exam",
+         title: "Career Exploration",
          url1: "/career-counselling/counseling",  
          url2: "/career-counselling/counseling-benefits"
        }
@@ -683,31 +605,31 @@ const rightMenuForCommunication = [
      [
        {
          id: 18,
-         title: "Connect/Explore",
+         title: "Social & Collabrative",
          url1: "/career-counselling/connect-explore",  
          url2: "/career-counselling/connect-explore-benefits"
        },
        {
          id: 19,
-         title: "Caree preparation",
+         title: "Portfolio",
          url1: "/career-counselling/connect-explore",  
          url2: "/career-counselling/connect-explore-benefits"
        },
        {
          id: 20,
-         title: "Career carricula",
+         title: "Virtual Classroom",
          url1: "/career-counselling/connect-explore",  
          url2: "/career-counselling/connect-explore-benefits"
        },
        {
          id: 21,
-         title: "Social & coloborative",
+         title: "Counselling Report ",
          url1: "/career-counselling/connect-explore",  
          url2: "/career-counselling/connect-explore-benefits"
        },
        {
          id: 22,
-         title: "My strength (portfolio) ",
+         title: "Career Curricula ",
          url1: "/career-counselling/connect-explore",  
          url2: "/career-counselling/connect-explore-benefits"
        }

@@ -10,9 +10,9 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Assessment",
+      title: "Intrest Profiler",
       description:
-        "Assessment is the process of evaluating knowledge, skills, abilities, or performance through various methods such as tests, observations, or feedback. It helps identify strengths, weaknesses, and areas for improvement. Used in education, workplaces, and personal development, assessments guide decision-making, set benchmarks, and ensure progress toward goals. Effective assessments are fair, objective, and aligned with desired outcomes.",
+        "The Interest Profiler is a tool designed to assess an individual's preferences and interests in various work-related activities. It helps identify careers that align with personal likes and skills. Often used in career counseling, it categorizes interests into areas like artistic, investigative, social, realistic, enterprising, and conventional, guiding people toward fulfilling professional paths.",
       image: "/ccservice_images/Group 400.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
@@ -20,44 +20,44 @@ export default function TeacherManagement() {
     },
     {
       id: 2,
-      title: "Councelling & support",
+      title: "Know Yourself ",
       description:
-        "Counseling and support provide a safe space for individuals to express emotions, gain clarity, and navigate life's challenges. Through active listening and professional guidance, it fosters personal growth, mental well-being, and resilience. Support networks, whether professional or peer-based, offer encouragement and understanding, empowering individuals to overcome difficulties and build healthier, more fulfilling lives.",
+        "Know Yourself is a concept that encourages self-awareness and introspection. It means understanding your strengths, weaknesses, emotions, values, and motivations. By reflecting on your beliefs and experiences, you gain clarity about who you are, what drives you, and how you interact with the world. This awareness fosters personal growth, better decision-making, and improved relationships.",
       image: "/ccservice_images/Group 401.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
     },
-    {
-      id: 3,
-      title: "Know your intrest",
-      description:
-        "Understanding your interests is key to self-discovery and growth. Interests reflect what excites and motivates you, guiding your passions and pursuits. Explore hobbies, skills, or topics that spark curiosity. Whether creative, intellectual, or adventurous, nurturing these areas leads to fulfillment. Knowing your interests helps define goals, build confidence, and create meaningful experiences in life.",
-      image: "/ccservice_images/Group 402.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 4,
-      title: "Online councelling",
-      description:
-        "Online counseling provides accessible and convenient mental health support through virtual platforms. It connects individuals with licensed therapists via video calls, chats, or emails, ensuring privacy and flexibility. Ideal for those with busy schedules or limited mobility, it addresses various mental health concerns, offering guidance, therapy, and coping strategies in a comfortable, familiar environment.",
-      image: "/ccservice_images/Group 403.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
-    {
-      id: 5,
-      title: "Councelling reports",
-      description:
-        "Counseling reports summarize sessions between counselors and clients, documenting discussions, concerns, progress, and recommendations. They provide insights into emotional, behavioral, or psychological issues and outline strategies for improvement. These reports ensure continuity of care, maintain confidentiality, and serve as a professional record. They are essential for tracking progress and tailoring interventions to meet individual client needs effectively.",
-      image: "/ccservice_images/Group 404.png",
-      url1: "#how-it-works",
-      url2: "#how-it-benefits-you",
-      url3: "#visualize-your-workflow"
-    },
+    // {
+    //   id: 3,
+    //   title: "Know your intrest",
+    //   description:
+    //     "Understanding your interests is key to self-discovery and growth. Interests reflect what excites and motivates you, guiding your passions and pursuits. Explore hobbies, skills, or topics that spark curiosity. Whether creative, intellectual, or adventurous, nurturing these areas leads to fulfillment. Knowing your interests helps define goals, build confidence, and create meaningful experiences in life.",
+    //   image: "/ccservice_images/Group 402.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 4,
+    //   title: "Online councelling",
+    //   description:
+    //     "Online counseling provides accessible and convenient mental health support through virtual platforms. It connects individuals with licensed therapists via video calls, chats, or emails, ensuring privacy and flexibility. Ideal for those with busy schedules or limited mobility, it addresses various mental health concerns, offering guidance, therapy, and coping strategies in a comfortable, familiar environment.",
+    //   image: "/ccservice_images/Group 403.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
+    // {
+    //   id: 5,
+    //   title: "Councelling reports",
+    //   description:
+    //     "Counseling reports summarize sessions between counselors and clients, documenting discussions, concerns, progress, and recommendations. They provide insights into emotional, behavioral, or psychological issues and outline strategies for improvement. These reports ensure continuity of care, maintain confidentiality, and serve as a professional record. They are essential for tracking progress and tailoring interventions to meet individual client needs effectively.",
+    //   image: "/ccservice_images/Group 404.png",
+    //   url1: "#how-it-works",
+    //   url2: "#how-it-benefits-you",
+    //   url3: "#visualize-your-workflow"
+    // },
     // {
     //   id: 2,
     //   title: "Task management System",
