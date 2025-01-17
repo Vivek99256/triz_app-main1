@@ -1,0 +1,50 @@
+ .feature-title:hover,.benefit-title:hover {
+    color: rgba(255, 140, 0, 1);
+    transition: all ease-in-out 500ms;
+    position: relative;
+  }
+  .feature-title,.benefit-title {
+    color: #ffffff;
+  }
+  .feature-title::before,.benefit-title::before {
+    content: '';
+    width: 2px;
+    background-color:rgba(255, 140, 0, 1);
+    position: absolute;
+    top: 0; 
+    left: -5px; 
+    height: 0%;
+    transition: all ease-in-out 250ms;
+  }
+  
+
+  .feature-title:hover::before ,.benefit-title:hover::before{
+    height:100%;
+  }
+
+  .feature-title.active::before,
+.benefit-title.active::before {
+  height: 100%;
+}
+
+/* Highlight the text color when active */
+.feature-title.active,
+.benefit-title.active {
+  color: rgba(255, 140, 0, 1);
+}
+  
+  .aboutus-container {
+    position: relative;
+    height: 600px;
+    color: white;
+    overflow-y: scroll;
+  }
+
+  .aboutus-container::-webkit-scrollbar {
+    display: none;
+  }
+
+  .aboutus-container {
+    scrollbar-width: none;
+  }
+  
