@@ -10,20 +10,20 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Achievement Monitor",
+      title: "Student Performance",
       description:
-        "Achievement Monitor is a powerful subcategory of Tracking Progress with Precision, designed to provide comprehensive insights into student performance. This feature tracks academic progress across various subjects, assessments, and activities, offering a clear picture of each student's strengths and challenges. With Achievement Monitor, educators can identify trends, personalize learning strategies, and implement targeted interventions to boost student success.",
-      image: "/analytics_images/Group 388.png",
+        "Student performance reflects their academic progress and ability to meet educational goals. It is influenced by factors such as motivation, study habits, teaching quality, and support systems. High performance often stems from effective time management, consistent effort, and a positive learning environment. Identifying strengths and addressing weaknesses through targeted strategies can enhance outcomes, promoting both personal growth and academic success.",
+      image: "/analytics_images/Group 449.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
     },
     {
       id: 2,
-      title: "Educator Impact Tracker",
+      title: "Teacher Performance",
       description:
-        "Educator Impact Tracker is a key subcategory of Tracking Progress with Precision, focused on evaluating and enhancing teacher performance. This feature provides detailed insights into teaching effectiveness by analyzing student outcomes, classroom engagement, and instructional practices. With Educator Impact Tracker, administrators can monitor professional growth, identify areas for development, and recognize high-performing educators.",
-      image: "/analytics_images/Group 389.png",
+        "Teacher performance is crucial for student success and academic growth. It encompasses instructional skills, classroom management, subject expertise, and the ability to inspire and engage learners. Effective teachers foster a positive learning environment, adapt to diverse needs, and encourage critical thinking. Continuous professional development and feedback are essential for improving performance and ensuring impactful education for all students.",
+      image: "/analytics_images/Group 450.png",
       url1: "#feature-1",
       url2: "#feature-2",
       url3: "#feature-3"

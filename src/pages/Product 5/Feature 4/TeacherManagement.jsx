@@ -10,10 +10,40 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Interactive Voice Response System ",
+      title: "Organization-wide Skill Taxonomy Framework ",
       description:
-        "Interactive Voice Response (IVR) System is a key feature under Streamlining Connections for Success, designed to enhance communication within educational institutions. This automated system allows parents, students, and staff to access important information and services through voice prompts and keypad inputs, reducing the need for direct human interaction. By providing a user-friendly interface, the IVR System streamlines inquiries related to attendance, grades, and school events, ensuring quick and efficient access to essential information.",
-      image: "/commservice_images/Group 387.png",
+        "An organization-wide skill taxonomy framework is a structured classification system that organizes and defines the skills required across an organization. It helps identify, assess, and map the skills employees need for current and future roles. This framework supports talent management, career development, and workforce planning, ensuring alignment between organizational goals and employee capabilities.",
+      image: "/commservice_images/feature4/Group 445.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 2,
+      title: "Skill Matirix creation",
+      description:
+        "A skill matrix is a tool used to assess and visualize the skills, competencies, and experience of a team or organization. It helps identify strengths, gaps, and areas for improvement. By categorizing skills, it facilitates resource allocation, training, and development, promoting efficient team collaboration and supporting strategic decision-making. It aids in talent management and workforce planning. This automated system allows parents, students, and staff to access important information and services through voice prompts and keypad inputs, reducing the need for direct human interaction. By providing a user-friendly interface, the IVR System streamlines inquiries related to attendance, grades, and school events, ensuring quick and efficient access to essential information.",
+      image: "/commservice_images/feature4/Group 446.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 3,
+      title: "Skill Mapping with deapartment and employee",
+      description:
+        "Skill mapping involves aligning employees' skills with departmental needs to ensure optimal performance. By identifying strengths, gaps, and areas for development, organizations can effectively assign tasks, enhance productivity, and support growth. This process helps in talent management, training, and succession planning, ensuring that each department has the right expertise to achieve its objectives..",
+      image: "/commservice_images/feature4/Group 447.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 4,
+      title: "Skill Gap Analysis",
+      description:
+        "A skill gap analysis identifies the disparity between current employee skills and those needed to meet organizational goals. By assessing competencies, businesses can determine training needs, improve workforce efficiency, and enhance productivity. This process helps organizations address deficiencies, close performance gaps, and align talent with evolving industry demands for better overall performance and growth.",
+      image: "/commservice_images/feature4/Group 448.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"

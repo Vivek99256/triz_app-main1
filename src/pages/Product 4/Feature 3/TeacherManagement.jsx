@@ -10,10 +10,10 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "AI- Driven Communication",
+      title: "Chat Bot",
       description:
-        "AI-Driven Communication is a key subcategory that enhances engagement and connectivity in learning environments. Utilizing artificial intelligence, this approach facilitates seamless interaction through chatbots, virtual assistants, and personalized messaging systems. By providing instant support and timely feedback, AI-Driven Communication fosters collaboration and creates a dynamic learning experience, empowering students to actively engage in their education and connect with their learning community.",
-      image: "/aiservice_images/Group 375.png",
+        "A chatbot is an AI-powered program designed to simulate human conversation. It interacts with users through text or voice, providing assistance, answering questions, or facilitating tasks. Chatbots are used in various industries, including customer service, healthcare, and education. They leverage machine learning and natural language processing to improve their responses and adapt to user needs over time.",
+      image: "/aiservice_images/Group 421.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"

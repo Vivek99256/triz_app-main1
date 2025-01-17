@@ -14,19 +14,19 @@ import S3 from "./Feature 3/IntegrationServices";
 
 const features = [
   {
-    title: 'Transforming Education with Smart Insights',
+    title: 'AI-Powered learning Tool',
     image: featureImage1,
     serviceComponent: <S1 />,
     description: 'Streamline your school management process with our efficient tools designed to simplify attendance, timetabling, and much more.',
   },
   {
-    title: 'Optimizing Educational Processes for Impact ',
+    title: 'Automation & Efficiency ',
     image: featureImage2,
     serviceComponent: <S2 />,
     description: 'Gain full control over finances, including fees, payroll, and budgeting, with clear and intuitive tools.',
   },
   {
-    title: 'Boosting Engagement and Connectivity in Learning',
+    title: 'AI-Driven Communication',
     image: featureImage3,
     serviceComponent: <S3 />,
     description: 'Provide personalized learning experiences to your students with powerful LMS and content management tools.',

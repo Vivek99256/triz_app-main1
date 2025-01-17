@@ -10,10 +10,10 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Curriculum Planning",
+      title: "Connect/Explore",
       description:
-        "Curriculum Planning is a crucial component that enables educators to design structured and effective learning experiences. This feature allows for the development of comprehensive course outlines, aligning learning objectives with assessments and instructional strategies. By fostering collaboration among educators, Curriculum Planning ensures that educational content is relevant, engaging, and tailored to meet the diverse needs of students, ultimately enhancing the overall quality of education.",
-      image: "/ccservice_images/Group 373.png",
+        "Connect/Explore invites individuals to expand their horizons through meaningful connections and discoveries. It encourages stepping out of comfort zones to engage with new ideas, cultures, and perspectives. By connecting with others, one gains knowledge and builds relationships, while exploring the world allows for personal growth and understanding, fostering a richer, more diverse experience in life.",
+      image: "/ccservice_images/Group 412.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
@@ -23,7 +23,37 @@ export default function TeacherManagement() {
       title: "Career Preparation",
       description:
         "Career Preparation is a vital feature that equips individuals with the skills and knowledge needed to thrive in their chosen professions. Offering practical training, workshops, and resources, it focuses on enhancing key competencies like resume writing, interview techniques, and networking strategies. By promoting a proactive approach to career readiness, Career Preparation ensures that students are well-prepared to meet industry demands and navigate the competitive job market with confidence.",
-      image: "/ccservice_images/Group 374.png",
+      image: "/ccservice_images/Group 413.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 3,
+      title: "Career carricula",
+      description:
+        "A career curriculum refers to a structured plan that outlines the skills, knowledge, and experiences necessary to succeed in a particular profession. It includes academic courses, certifications, training, internships, and job-specific competencies. This framework helps individuals prepare for the workforce by offering a clear roadmap of the qualifications needed for career advancement and success in their chosen field.",
+      image: "/ccservice_images/Group 414.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 4,
+      title: "Social & coloborative",
+      description:
+        "Social and collaborative environments foster teamwork, creativity, and shared goals. By encouraging open communication and cooperation, individuals can leverage diverse perspectives, enhancing problem-solving and innovation. These settings, whether in the workplace or online, promote a sense of community, trust, and mutual support, leading to more efficient outcomes and a positive, inclusive culture.",
+      image: "/ccservice_images/Group 415.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 5,
+      title: "My strength (portfolio)",
+      description:
+        "My portfolio showcases a diverse range of strengths, including creativity, problem-solving, and attention to detail. I bring innovation and strategic thinking to every project, ensuring high-quality results. With strong technical skills, adaptability, and a collaborative mindset, I consistently deliver solutions that exceed expectations. My work reflects my commitment to excellence and my passion for continuous improvement.",
+      image: "/ccservice_images/Group 416.png",
       url1: "#feature-1",
       url2: "#feature-2",
       url3: "#feature-3"

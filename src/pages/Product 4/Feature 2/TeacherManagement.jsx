@@ -13,7 +13,7 @@ export default function TeacherManagement() {
       title: "Automatic Grading",
       description:
         "Automatic Grading is a game-changing subcategory of optimizing educational processes that uses technology to streamline the assessment of student work. By leveraging advanced algorithms and machine learning, this system quickly evaluates assignments and quizzes, providing instant feedback to learners. This efficiency not only saves educators time but also ensures consistent grading, allowing instructors to focus on personalized instruction while enhancing the overall learning experience.",
-      image: "/aiservice_images/Group 377.png",
+      image: "/aiservice_images/Group 419.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
@@ -23,7 +23,7 @@ export default function TeacherManagement() {
       title: "Time table Automation ",
       description:
         "Timetable Automation is a crucial subcategory of optimizing educational processes that streamlines the scheduling of classes, exams, and academic activities. Utilizing advanced algorithms, this system automatically generates timetables while considering factors like room availability and instructor preferences. By reducing administrative workload and minimizing conflicts, timetable automation enhances operational efficiency, improving the overall experience for both educators and students.",
-      image: "/aiservice_images/Group 376.png",
+      image: "/aiservice_images/Group 420.png",
       url1: "#feature-1",
       url2: "#feature-2",
       url3: "#feature-3"

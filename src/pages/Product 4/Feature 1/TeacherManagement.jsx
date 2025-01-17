@@ -10,10 +10,10 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Personal Adaptive Learning",
+      title: "PAL(Personal Adaptive Learning)",
       description:
         "Personal Adaptive Learning is an innovative subcategory of AI-Powered Learning Tools that customizes educational experiences to suit each learner's unique needs. Utilizing advanced algorithms and data analytics, this approach tailors content delivery and pacing based on individual strengths and learning styles. By providing personalized support and resources, it enhances engagement and retention, empowering students to take control of their learning journey and improve academic outcomes.",
-      image: "/aiservice_images/Group 378.png",
+      image: "/aiservice_images/Group 417.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
@@ -23,7 +23,7 @@ export default function TeacherManagement() {
       title: "GENERATIVE AI",
       description:
         "Generative AI is an innovative subcategory of AI-Powered Learning Tools that creates dynamic, interactive content to enhance education. Utilizing machine learning algorithms, it can generate quizzes, personalized study materials, and simulations that adapt to individual learning preferences. By producing unique resources on demand, Generative AI saves time for educators while engaging students in creative ways, fostering deeper understanding and retention of material.",
-      image: "/aiservice_images/Group 379.png",
+      image: "/aiservice_images/Group 418.png",
       url1: "#feature-1",
       url2: "#feature-2",
       url3: "#feature-3"

@@ -10,20 +10,80 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Parent-Teacher Meeting",
+      title: "Payroll Management",
       description:
-        "Parent-Teacher Meetings are a vital component of Parental Engagement, providing a platform for meaningful communication between educators and families. These meetings foster collaboration and ensure that parents are informed about their child’s academic progress, strengths, and areas for improvement. By creating an open dialogue, parents and teachers can work together to set goals and strategies that support student success.",
-      image: "/commservice_images/feature1/Group 380.png",
+        "Payroll management involves the process of calculating and distributing employee salaries, wages, bonuses, and deductions. It ensures compliance with tax laws, benefits administration, and accurate record-keeping. Key tasks include time tracking, tax calculations, direct deposits, and generating payslips. Effective payroll management promotes employee satisfaction and helps businesses maintain financial accuracy and legal compliance.",
+      image: "/commservice_images/feature1/Group 422.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
     },
     {
       id: 2,
-      title: "Circulars",
+      title: "Leave & Attendance Management",
       description:
-        "Circulars play an essential role in Parental Engagement by serving as a primary communication tool between schools and families. These informative documents keep parents updated on important events, policies, and changes within the school community. By providing timely and relevant information, circulars ensure that parents stay informed and actively involved in their child's education. This transparency fosters trust and collaboration between educators and families, ultimately contributing to a supportive learning environment for students.",
-      image: "/commservice_images/feature1/Group 382.png",
+        "Leave and Attendance Management refers to the systematic tracking of employees' work hours, leaves, and attendance records. It involves monitoring absences, managing vacation and sick leaves, and ensuring compliance with company policies. This system helps streamline payroll processing, improves employee accountability, and fosters a transparent work environment, contributing to better operational efficiency and workforce management.",
+      image: "/commservice_images/feature1/Group 423.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 3,
+      title: "Pre-Assessment Toolsinterview Management",
+      description:
+        "Pre-assessment tools in interview management are designed to evaluate a candidate's skills, qualifications, and fit for a role before the actual interview. These tools can include tests, questionnaires, and surveys that assess technical abilities, personality traits, and cognitive skills. They help streamline the hiring process, ensuring a more efficient and objective evaluation of candidates.",
+      image: "/commservice_images/feature1/Group 424.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 4,
+      title: "Employee Onboarding",
+      description:
+        "Employee onboarding is the process of integrating new hires into an organization, ensuring they understand company culture, policies, and their specific roles. It involves training, setting expectations, providing necessary tools, and fostering connections with colleagues. A well-structured onboarding experience enhances employee engagement, boosts retention, and accelerates productivity, ultimately benefiting both the employee and the organization.",
+      image: "/commservice_images/feature1/Group 425.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 5,
+      title: "Compliance Management, HR, Govt, Industry",
+      description:
+        "Compliance management in HR ensures adherence to labor laws, regulations, and industry standards, safeguarding both employees and organizations. It involves monitoring workplace policies, conducting audits, and addressing violations. Government regulations play a pivotal role in shaping compliance frameworks. The industry’s role is to integrate these guidelines, fostering a fair and legal working environment while minimizing risks and penalties.",
+      image: "/commservice_images/feature1/Group 426.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 6,
+      title: "Document Management System",
+      description:
+        "A Document Management System (DMS) is a software solution that enables organizations to store, manage, and track electronic documents. It streamlines document retrieval, ensures version control, and improves collaboration. DMS provides security, compliance, and backup features, allowing users to efficiently organize and access files, reducing paperwork, and enhancing productivity across teams.",
+      image: "/commservice_images/feature1/Group 427.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 7,
+      title: "User Level control/rights management",
+      description:
+        "User-level control or rights management refers to the process of managing and regulating access to resources based on user roles and permissions. This system ensures that individuals can only access specific data or perform certain actions according to their assigned privileges. It enhances security by preventing unauthorized access and ensures compliance with organizational policies.",
+      image: "/commservice_images/feature1/Group 428.png",
+      url1: "#feature-1",
+      url2: "#feature-2",
+      url3: "#feature-3"
+    },
+    {
+      id: 8,
+      title: "Communication Tools",
+      description:
+        "Communication tools are essential for exchanging information and fostering collaboration. They include digital platforms like emails, instant messaging, video conferencing, and social media, as well as traditional methods such as telephone and face-to-face conversations. These tools help individuals and organizations stay connected, streamline workflows, and share ideas, making them indispensable in both personal and professional settings.",
+      image: "/commservice_images/feature1/Group 429.png",
       url1: "#feature-1",
       url2: "#feature-2",
       url3: "#feature-3"

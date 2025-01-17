@@ -10,30 +10,60 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Email",
+      title: "Organizational Structure Management",
       description:
-        "Email Integration is a key feature under Instant Updates for All that enhances communication efficiency within the educational ecosystem. By seamlessly connecting email systems, this tool ensures that teachers, parents, and students receive timely notifications, important announcements, and updates directly in their inboxes. This streamlined communication channel facilitates quick access to essential information, fostering a more informed and engaged community.",
-      image: "/commservice_images/Group 384.png",
+        "Organizational structure management refers to the process of designing and maintaining the hierarchy, roles, and relationships within an organization. It ensures clear reporting lines, effective communication, and the alignment of resources to achieve organizational goals. Well-managed structures enhance productivity, streamline decision-making, and support growth by fostering a collaborative and efficient work environment.",
+      image: "/commservice_images/feature3/Group 439.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
     },
     {
       id: 2,
-      title: "SMS",
+      title: "Add Department Details",
       description:
-        "SMS Integration is a crucial feature under Instant Updates for All that ensures immediate communication within the educational community. This tool allows schools to send important alerts, reminders, and announcements directly to parents, students, and staff via text messages. By providing timely updates through SMS, stakeholders can stay informed about events, deadlines, and emergencies, fostering a sense of connectivity and engagement.",
-      image: "/commservice_images/Group 385.png",
+        "A department is a distinct division within an organization, typically responsible for specific functions or tasks. Each department focuses on its area of expertise, such as marketing, finance, or human resources, to achieve organizational goals. Department heads manage operations and coordinate with other departments to ensure efficiency, productivity, and alignment with the company's objectives.",
+      image: "/commservice_images/feature3/Group 440.png",
       url1: "#feature-1",
       url2: "#feature-2",
       url3: "#feature-3"
     },
     {
       id: 3,
-      title: "Whatsapp",
+      title: "Employee Skill Management",
       description:
-        "WhatsApp Integration is an innovative feature under Instant Updates for All that leverages the popular messaging platform to enhance communication within the educational community. This tool allows schools to share real-time updates, important announcements, and event reminders directly through WhatsApp, ensuring instant access to vital information. By utilizing a platform that many parents and students already use, WhatsApp Integration fosters greater engagement and responsiveness.",
-      image: "/commservice_images/Group 386.png",
+        "Employee skill management involves identifying, developing, and tracking the competencies of employees to ensure they align with organizational goals. It includes training programs, performance evaluations, and career development initiatives. Effective skill management enhances employee productivity, job satisfaction, and retention while enabling the organization to meet evolving market demands and drive innovation.",
+      image: "/commservice_images/feature3/Group 441.png",
+      url1: "#contact-us",
+      url2: "#feedback",
+      url3: "#support"
+    },
+    {
+      id: 4,
+      title: "Reviews & Appraisals, Succession, Planning &Performance,KPI & Goal Setting",
+      description:
+        "Reviews and appraisals evaluate employee performance, providing feedback for improvement. Succession planning ensures leadership continuity by identifying and developing future leaders. Planning and performance focus on setting strategic objectives, while KPIs (Key Performance Indicators) measure progress. Goal setting aligns personal and organizational targets, fostering growth, motivation, and accountability in achieving desired outcomes..",
+      image: "/commservice_images/feature3/Group 442.png",
+      url1: "#contact-us",
+      url2: "#feedback",
+      url3: "#support"
+    },
+    {
+      id: 5,
+      title: "Organization Handbook",
+      description:
+        "An organization handbook is a comprehensive document outlining a company’s policies, procedures, values, and expectations. It serves as a guide for employees, detailing the work environment, rules of conduct, benefits, and operational guidelines. It ensures consistency, fosters communication, and helps employees understand their roles, responsibilities, and the company culture.",
+      image: "/commservice_images/feature3/Group 443.png",
+      url1: "#contact-us",
+      url2: "#feedback",
+      url3: "#support"
+    },
+    {
+      id: 6,
+      title: "Inventory Management",
+      description:
+        "Inventory management involves overseeing the flow of goods and materials in a business. It ensures the right quantity of products is available at the right time, minimizing overstock and stockouts. Effective inventory management optimizes storage costs, improves cash flow, and enhances customer satisfaction by ensuring timely product availability and reducing waste.",
+      image: "/commservice_images/feature3/Group 444.png",
       url1: "#contact-us",
       url2: "#feedback",
       url3: "#support"

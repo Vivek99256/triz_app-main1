@@ -16,25 +16,25 @@ import S4  from "./Feature 4/IntegrationServices";
 
 const features = [
   {
-    title: 'Parental Engagement',
+    title: 'HRIT Solutionst',
     image: featureImage1,
     serviceComponent: <S1 />,
     description: 'Streamline your school management process with our efficient tools designed to simplify attendance, timetabling, and much more.',
   },
   {
-    title: 'Teacher Communication & Coordination',
+    title: 'Talent Management',
     image: featureImage2,
     serviceComponent: <S2 />,
     description: 'Gain full control over finances, including fees, payroll, and budgeting, with clear and intuitive tools.',
   },
   {
-    title: 'Instant Updates for All',
+    title: 'Organizational Development',
     image: featureImage3,
     serviceComponent: <S3 />,
     description: 'Provide personalized learning experiences to your students with powerful LMS and content management tools.',
   },
   {
-    title: 'Streamlining Connections for Success',
+    title: 'Skill Matrix & Taxonomy',
     image: featureImage4,
     serviceComponent: <S4 />,
     description: 'Enhance communication between teachers, students, and parents with integrated messaging and notification systems.',

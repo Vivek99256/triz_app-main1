@@ -16,30 +16,25 @@ import S4  from "./Feature 4/IntegrationServices";
 
 const features = [
   {
-    title: 'Tracking Progress with Precision',
+    title: 'Performance Analytics',
     image: featureImage1,
     serviceComponent: <S1 />,
     description: 'Streamline your school management process with our efficient tools designed to simplify attendance, timetabling, and much more.',
   },
   {
-    title: 'Unlocking Data-Driven Decisions',
+    title: 'Reporting & Insights',
     image: featureImage2,
     serviceComponent: <S2 />,
     description: 'Gain full control over finances, including fees, payroll, and budgeting, with clear and intuitive tools.',
   },
   {
-    title: (
-        <>
-          Anticipating Future<br />
-          Success
-        </>
-      ), 
+    title: 'Predictive Analytics',
     image: featureImage3,
     serviceComponent: <S3 />,
     description: 'Provide personalized learning experiences to your students with powerful LMS and content management tools.',
   },
   {
-    title: 'Sharpening Academic Outcomes',
+    title: 'Exam & Results Analytics',
     image: featureImage4,
     serviceComponent: <S4 />,
     description: 'Enhance communication between teachers, students, and parents with integrated messaging and notification systems.',

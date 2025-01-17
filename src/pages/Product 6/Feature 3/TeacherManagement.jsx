@@ -10,10 +10,10 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Future Insights",
+      title: "Prediction",
       description:
-        "Future Insights is an innovative subcategory of Anticipating Future Success, offering predictive analytics to forecast student performance and academic trends. By analyzing historical data and identifying key patterns, this feature helps educators anticipate potential challenges and opportunities for individual students or groups. Future Insights empowers schools to take proactive measures, enabling personalized interventions that can improve outcomes and foster student success.",
-      image: "/analytics_images/Group 391.png",
+        "Prediction is the act of forecasting future events or outcomes based on available data, patterns, or intuition. It plays a vital role in fields like science, finance, weather forecasting, and artificial intelligence. By analyzing trends and probabilities, predictions help guide decisions, reduce risks, and prepare for uncertainties. Accuracy depends on the quality of input and method used.",
+      image: "/analytics_images/Group 451.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"

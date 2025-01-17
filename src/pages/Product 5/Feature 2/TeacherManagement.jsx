@@ -10,10 +10,90 @@ export default function TeacherManagement() {
   const contentArray = [
     {
       id: 1,
-      title: "Teacher Diary",
+      title: "CPD",
       description:
-        "Teacher Diary is a vital subcategory of Teacher Communication & Coordination that enables educators to document and reflect on their daily activities, lessons, and student interactions. This tool fosters effective communication among teachers, allowing them to share insights, track progress, and coordinate strategies for student success. By maintaining a comprehensive record, the Teacher Diary enhances collaboration and encourages professional growth, ensuring that educators are aligned in their goals and approaches.",
-      image: "/commservice_images/Group 383.png",
+        "CPD stands for Continuing Professional Development, a process of lifelong learning that ensures individuals maintain and enhance their professional skills and knowledge. It involves various activities such as workshops, seminars, courses, and self-reflection. CPD is vital for career growth, improving job performance, staying updated on industry changes, and meeting licensing or certification requirements.",
+      image: "/commservice_images/feature2/Group 430.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 2,
+      title: "Training Progress Tracking",
+      description:
+        "Training progress tracking involves monitoring and recording an individual's performance over time. It helps identify strengths, weaknesses, and areas for improvement. Regular tracking ensures that training goals are being met, and adjustments can be made to optimize results. Using metrics like performance tests, milestones, and feedback allows for a more effective and personalized training approach.",
+      image: "/commservice_images/feature2/Group 431.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 3,
+      title: "Complaince Training",
+      description:
+        "Compliance training is essential for organizations to ensure employees understand legal, ethical, and regulatory requirements. It helps mitigate risks, prevent violations, and promote a culture of integrity. Through interactive modules and real-life scenarios, employees learn the importance of adhering to company policies and industry standards, ensuring both personal and organizational accountability in day-to-day operations.",
+      image: "/commservice_images/feature2/Group 432.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 4,
+      title: "Certification Management",
+      description:
+        "Certification management involves tracking, maintaining, and verifying certifications within an organization. It ensures that employees, contractors, or businesses comply with regulatory and industry standards. Effective management includes monitoring expiry dates, renewing certifications on time, storing relevant documents, and keeping records organized for audits. This helps maintain a skilled workforce and mitigates risks related to non-compliance.",
+      image: "/commservice_images/feature2/Group 433.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 5,
+      title: "Reskilling/Upskilling Course Library",
+      description:
+        "A reskilling/upskilling course library offers a curated collection of training programs designed to help individuals learn new skills or enhance existing ones. These courses cover a wide range of industries and subjects, providing learners with the tools needed to stay competitive in the job market. They cater to both career changers and those aiming for career advancement.",
+      image: "/commservice_images/feature2/Group 434.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 6,
+      title: "Leadership Development (Medium &junior)",
+      description:
+        "Leadership development for medium and junior levels focuses on building essential skills such as communication, problem-solving, and team collaboration. It encourages self-awareness, emotional intelligence, and adaptability to navigate challenges. Training often includes mentoring, feedback, and learning opportunities to cultivate confidence and decision-making abilities, preparing individuals for future leadership roles and responsibilities.",
+      image: "/commservice_images/feature2/Group 435.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 7,
+      title: "Knowledge Sharing & Collaboration",
+      description:
+        "Knowledge sharing and collaboration involve the exchange of expertise, ideas, and resources among individuals or groups to solve problems, innovate, and improve decision-making. By fostering open communication, trust, and teamwork, organizations can enhance productivity, accelerate learning, and create a more inclusive work environment. Effective collaboration leads to better outcomes and the growth of collective intelligence.",
+      image: "/commservice_images/feature2/Group 436.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 8,
+      title: "Content Library",
+      description:
+        "A content library is a centralized collection of digital resources, including articles, videos, images, reports, and other materials, organized for easy access and distribution. It serves as a valuable tool for businesses, educators, or marketers to manage and reuse content efficiently. Content libraries enhance knowledge sharing, support creative processes, and streamline workflows across teams.",
+      image: "/commservice_images/feature2/Group 437.png",
+      url1: "#how-it-works",
+      url2: "#how-it-benefits-you",
+      url3: "#visualize-your-workflow"
+    },
+    {
+      id: 9,
+      title: "Mobile Apps",
+      description:
+        "Mobile apps are software applications designed for smartphones and tablets. They offer diverse functions, from entertainment and communication to productivity and health tracking. Users can download them from app stores, with many apps being free or offering in-app purchases. Mobile apps have transformed industries, providing convenience and enhancing daily life with instant access to services and information.",
+      image: "/commservice_images/feature2/Group 438.png",
       url1: "#how-it-works",
       url2: "#how-it-benefits-you",
       url3: "#visualize-your-workflow"
